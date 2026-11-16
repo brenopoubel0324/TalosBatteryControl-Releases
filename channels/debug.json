@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "channel": "debug",
+  "release": {
+    "applicationId": "com.sammy.sbatterytweaks.screenpd",
+    "variant": "debug",
+    "debuggable": true,
+    "versionCode": 39,
+    "versionName": "6.0.0-beta.6",
+    "minSdk": 29,
+    "apk": {
+      "url": "https://raw.githubusercontent.com/brenopoubel0324/TalosBatteryControl-Releases/ba649fd4971c4e845bea65323c6fd8674858eb28/Talos-6.0.0-beta.6-debug.apk",
+      "bytes": 16456181,
+      "sha256": "f3f8be5f8c4253c5fd65f46920f1c0606e13c96c3abe69e0546721dca2de70f8",
+      "certificateSha256": "d9559465cffbe2172bcb170dca32be936abbfd258254eb116edd83f49e885161"
+    },
+    "releaseUrl": "https://github.com/brenopoubel0324/TalosBatteryControl-Releases/releases/tag/v6.0.0-beta.6",
+    "notes": {
+      "pt-BR": "Busca integrada em telas amplas. Home adaptativa, melhorias de acessos e buffer curto dos watts.",
+      "en": "Integrated search on wide windows. Adaptive Home, access recovery and a short power-reading buffer."
+    }
+  }
+}

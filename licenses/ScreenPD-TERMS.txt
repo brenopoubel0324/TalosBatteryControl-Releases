@@ -1,0 +1,42 @@
+Talos Battery Control — contribuições próprias / original contributions
+Copyright (c) 2026, respectivos titulares das contribuições.
+All rights reserved / Todos os direitos reservados.
+
+Talos Battery Control (Talos) é o nome atual do mesmo aplicativo anteriormente
+chamado ScreenPD. A mudança de nome não altera a origem, a autoria nem os termos
+aplicáveis às contribuições e aos componentes de terceiros.
+
+O mantenedor disponibiliza os APKs oficiais do Talos para instalação e uso.
+O código próprio não recebe, neste momento, uma licença aberta geral de
+modificação ou redistribuição. Outros usos dependem de autorização aplicável
+dos respectivos titulares, ressalvados os direitos previstos em lei.
+
+Estes termos abrangem somente as contribuições originais do projeto Talos
+cujos titulares autorizaram esta distribuição. Não transferem autoria e não
+atribuem direitos exclusivos sobre todo o conjunto.
+
+Bibliotecas, ferramentas e recursos de terceiros conservam suas próprias
+licenças e avisos. Material histórico importado e expressões pertencentes a
+outros titulares não recebem uma licença nova por este documento. As revisões
+anteriores no Git não são relicenciadas automaticamente. Consulte
+THIRD_PARTY_NOTICES.md, docs/ORIGEM.md e os avisos offline no aplicativo.
+
+A integração do componente Apoio Apps neste aplicativo permanece autorizada
+pelo seu mantenedor. Estes termos do consumidor não alteram os termos gerais
+de distribuição do repositório Apoio Apps.
+
+Talos Battery Control (Talos) is the current name of the same application
+previously called ScreenPD. The name change does not alter its origin,
+authorship, or the terms applicable to contributions and third-party components.
+
+The maintainer makes official Talos APKs available for installation and use.
+The project's original code is not currently offered under a general open
+source modification or redistribution license. Other uses require applicable
+authorization from the respective rightsholders, subject to statutory rights.
+
+These terms cover only original Talos contributions whose rightsholders
+authorized this distribution. They do not transfer authorship or claim
+exclusive ownership of the entire application. Third-party materials retain
+their own licenses and notices. Imported historical material and earlier Git
+revisions are not relicensed by this document. Terms of the separate Apoio Apps
+repository are not changed by its authorized integration into this application.

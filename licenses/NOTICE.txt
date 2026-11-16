@@ -1,0 +1,105 @@
+Talos Battery Control — componentes de terceiros / third-party components
+Este arquivo descreve o grafo de runtime; R8 pode remover partes não utilizadas.
+Não é uma licença geral para Talos nem para material histórico do S Battery Tweaker.
+
+AndroidX / Android Open Source Project: Apache-2.0.
+Material Components / Google: Apache-2.0.
+Material icons info/refresh/warning / Google: Apache-2.0.
+Fonte: google/material-design-icons@10ecc14790612ca8fd164e3f4ffe9c16fc50d5b7; SVG convertido em VectorDrawable.
+libsu 6.0.0 / topjohnwu: Apache-2.0.
+Kotlin e kotlinx.coroutines / JetBrains e contribuidores: Apache-2.0.
+Shevery API 14.6.3 / HamonDev, RikkaW e contribuidores: MIT (arquivo Shevery-MIT.txt).
+Shevery reconhece Shizuku-API (RikkaW), Nightzuku API (kerneldroid) e Porter API (d4rken-org).
+Fontes: https://github.com/HmnDev-Tech/Shevery-API/tree/v14.6.3
+Compatibilidade Shizuku fornecida pela dependência Shevery; não é outro SDK duplicado.
+Settings Database Provider v1.1 / projeto gamemn02: Apache-2.0 (Provider-LICENSE.txt).
+O APK auxiliar embarcado mantém SHA-256 ded47acf62b75ab5425fb2e350ade7765a8df7212e32c3e7bfc5e142c9837638.
+Fonte do auxiliar: https://github.com/gamemn02/Settings-Database-Provider/tree/90dfb5ad703a68e20a8f4ac5dbfd34268b27de3a
+A fonte declara AndroidX core-ktx 1.7.0 e Kotlin 1.5.20; não se afirma build reproduzível.
+Layout de switch adaptado do AndroidX: Copyright (C) 2015 The Android Open Source Project.
+Fonte: androidx/androidx@005e9694795cee9a42375d80b0d813af9e700ac1, preference_widget_switch_compat.xml.
+Apoio Apps 0.1.0: componente do mantenedor integrado por autorização expressa; termos gerais não presumidos.
+
+Artefatos / artifacts:
+androidx.activity:activity-ktx:1.8.0 — The Apache Software License, Version 2.0
+androidx.activity:activity:1.8.0 — The Apache Software License, Version 2.0
+androidx.annotation:annotation-experimental:1.4.1 — The Apache Software License, Version 2.0
+androidx.annotation:annotation-jvm:1.11.0-alpha01 — The Apache Software License, Version 2.0
+androidx.appcompat:appcompat-resources:1.8.0 — The Apache Software License, Version 2.0
+androidx.appcompat:appcompat:1.8.0 — The Apache Software License, Version 2.0
+androidx.arch.core:core-common:2.2.0 — The Apache Software License, Version 2.0
+androidx.arch.core:core-runtime:2.2.0 — The Apache Software License, Version 2.0
+androidx.cardview:cardview:1.0.0 — The Apache Software License, Version 2.0
+androidx.collection:collection-jvm:1.4.2 — The Apache Software License, Version 2.0
+androidx.collection:collection-ktx:1.4.2 — The Apache Software License, Version 2.0
+androidx.concurrent:concurrent-futures:1.1.0 — The Apache Software License, Version 2.0
+androidx.constraintlayout:constraintlayout-core:1.1.2 — The Apache Software License, Version 2.0
+androidx.constraintlayout:constraintlayout:2.2.2 — The Apache Software License, Version 2.0
+androidx.coordinatorlayout:coordinatorlayout:1.1.0 — The Apache Software License, Version 2.0
+androidx.core:core-ktx:1.19.0 — The Apache Software License, Version 2.0
+androidx.core:core-viewtree:1.0.0 — The Apache Software License, Version 2.0
+androidx.core:core:1.19.0 — The Apache Software License, Version 2.0
+androidx.core:core:1.19.0 — The Apache Software License, Version 2.0
+androidx.cursoradapter:cursoradapter:1.0.0 — The Apache Software License, Version 2.0
+androidx.customview:customview:1.2.0 — The Apache Software License, Version 2.0
+androidx.customview:customview:1.2.0 — The Apache Software License, Version 2.0
+androidx.databinding:viewbinding:9.3.2 — The Apache Software License, Version 2.0
+androidx.drawerlayout:drawerlayout:1.1.1 — The Apache Software License, Version 2.0
+androidx.dynamicanimation:dynamicanimation:1.1.0 — The Apache Software License, Version 2.0
+androidx.emoji2:emoji2-views-helper:1.3.0 — The Apache Software License, Version 2.0
+androidx.emoji2:emoji2:1.3.0 — The Apache Software License, Version 2.0
+androidx.fragment:fragment-ktx:1.3.6 — The Apache Software License, Version 2.0
+androidx.fragment:fragment:1.5.4 — The Apache Software License, Version 2.0
+androidx.fragment:fragment:1.5.4 — The Apache Software License, Version 2.0
+androidx.graphics:graphics-shapes-android:1.0.1 — The Apache Software License, Version 2.0
+androidx.interpolator:interpolator:1.0.0 — The Apache Software License, Version 2.0
+androidx.lifecycle:lifecycle-common:2.6.2 — The Apache Software License, Version 2.0
+androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2 — The Apache Software License, Version 2.0
+androidx.lifecycle:lifecycle-livedata-core:2.6.2 — The Apache Software License, Version 2.0
+androidx.lifecycle:lifecycle-livedata:2.6.2 — The Apache Software License, Version 2.0
+androidx.lifecycle:lifecycle-process:2.6.2 — The Apache Software License, Version 2.0
+androidx.lifecycle:lifecycle-runtime-ktx:2.6.2 — The Apache Software License, Version 2.0
+androidx.lifecycle:lifecycle-runtime:2.6.2 — The Apache Software License, Version 2.0
+androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2 — The Apache Software License, Version 2.0
+androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2 — The Apache Software License, Version 2.0
+androidx.lifecycle:lifecycle-viewmodel:2.6.2 — The Apache Software License, Version 2.0
+androidx.lifecycle:lifecycle-viewmodel:2.6.2 — The Apache Software License, Version 2.0
+androidx.loader:loader:1.0.0 — The Apache Software License, Version 2.0
+androidx.preference:preference-ktx:1.2.1 — The Apache Software License, Version 2.0
+androidx.preference:preference:1.2.1 — The Apache Software License, Version 2.0
+androidx.profileinstaller:profileinstaller:1.4.0 — The Apache Software License, Version 2.0
+androidx.recyclerview:recyclerview:1.2.1 — The Apache Software License, Version 2.0
+androidx.recyclerview:recyclerview:1.2.1 — The Apache Software License, Version 2.0
+androidx.resourceinspection:resourceinspection-annotation:1.0.1 — The Apache Software License, Version 2.0
+androidx.savedstate:savedstate-ktx:1.2.1 — The Apache Software License, Version 2.0
+androidx.savedstate:savedstate:1.2.1 — The Apache Software License, Version 2.0
+androidx.slidingpanelayout:slidingpanelayout:1.2.0 — The Apache Software License, Version 2.0
+androidx.startup:startup-runtime:1.1.1 — The Apache Software License, Version 2.0
+androidx.tracing:tracing:1.2.0 — The Apache Software License, Version 2.0
+androidx.transition:transition:1.5.0 — The Apache Software License, Version 2.0
+androidx.vectordrawable:vectordrawable-animated:1.1.0 — The Apache Software License, Version 2.0
+androidx.vectordrawable:vectordrawable:1.1.0 — The Apache Software License, Version 2.0
+androidx.versionedparcelable:versionedparcelable:1.1.1 — The Apache Software License, Version 2.0
+androidx.viewpager2:viewpager2:1.0.0 — The Apache Software License, Version 2.0
+androidx.viewpager:viewpager:1.0.0 — The Apache Software License, Version 2.0
+androidx.window:window:1.0.0 — The Apache Software License, Version 2.0
+com.github.topjohnwu.libsu:core:6.0.0 — Apache-2.0: fonte consultada
+com.google.android.material:material:1.14.0 — The Apache Software License, Version 2.0
+com.google.errorprone:error_prone_annotations:2.15.0 — Apache 2.0
+com.google.guava:listenablefuture:1.0 — Apache-2.0: fonte consultada
+com.hamondev.shevery.api:aidl:14.6.3 — MIT License
+com.hamondev.shevery.api:api:14.6.3 — MIT License
+com.hamondev.shevery.api:provider:14.6.3 — MIT License
+com.hamondev.shevery.api:shared:14.6.3 — MIT License
+org.jetbrains.kotlin:kotlin-stdlib:2.4.10 — Apache-2.0
+org.jetbrains.kotlinx:kotlinx-coroutines-android:1.9.0 — The Apache Software License, Version 2.0
+org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.9.0 — The Apache Software License, Version 2.0
+org.jetbrains:annotations:23.0.0 — The Apache Software License, Version 2.0
+org.jspecify:jspecify:1.0.0 — The Apache License, Version 2.0
+project :apoio-apps:android — componente próprio autorizado
+project :apoio-apps:core — componente próprio autorizado
+
+Textos integrais incluídos em legal/: Apache-2.0.txt, Shevery-MIT.txt,
+Kotlin-COPYRIGHT.txt, Kotlin-NOTICE.txt, Provider-LICENSE.txt.
+Outros avisos incorporados em AAR/JAR permanecem nos recursos META-INF correspondentes.
+Atribuições não afirmam patrocínio dos projetos nem transferem a autoria de terceiros.
