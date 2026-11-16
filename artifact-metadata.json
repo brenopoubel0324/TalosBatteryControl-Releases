@@ -1,0 +1,13 @@
+{
+  "applicationId": "com.sammy.sbatterytweaks.screenpd",
+  "versionCode": 39,
+  "versionName": "6.0.0-beta.6",
+  "variant": "debug",
+  "debuggable": true,
+  "certificate_sha256": "d9559465cffbe2172bcb170dca32be936abbfd258254eb116edd83f49e885161",
+  "apk": "Talos-6.0.0-beta.6-debug.apk",
+  "apk_sha256": "f3f8be5f8c4253c5fd65f46920f1c0606e13c96c3abe69e0546721dca2de70f8",
+  "zip": "Talos-6.0.0-beta.6-debug.zip",
+  "zip_sha256": "63efdb004d05c45205543d43f9d6873736823b9cce790713a07b61125d97fbf0",
+  "minSdk": 29
+}
