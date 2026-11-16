@@ -5,19 +5,19 @@
     "applicationId": "com.sammy.sbatterytweaks.screenpd",
     "variant": "debug",
     "debuggable": true,
-    "versionCode": 39,
-    "versionName": "6.0.0-beta.6",
+    "versionCode": 40,
+    "versionName": "6.0.0-beta.7",
     "minSdk": 29,
     "apk": {
-      "url": "https://raw.githubusercontent.com/brenopoubel0324/TalosBatteryControl-Releases/ba649fd4971c4e845bea65323c6fd8674858eb28/Talos-6.0.0-beta.6-debug.apk",
-      "bytes": 16456181,
-      "sha256": "f3f8be5f8c4253c5fd65f46920f1c0606e13c96c3abe69e0546721dca2de70f8",
+      "url": "https://raw.githubusercontent.com/brenopoubel0324/TalosBatteryControl-Releases/efc06e1a3716cee28aa6a9984a184a2d414228c8/Talos-6.0.0-beta.7-debug.apk",
+      "bytes": 17042110,
+      "sha256": "d7443182ecaf9f08a72d3dec4572756633a86ffdb507a18b09c9b6d5fa0bfc4f",
       "certificateSha256": "d9559465cffbe2172bcb170dca32be936abbfd258254eb116edd83f49e885161"
     },
-    "releaseUrl": "https://github.com/brenopoubel0324/TalosBatteryControl-Releases/releases/tag/v6.0.0-beta.6",
+    "releaseUrl": "https://github.com/brenopoubel0324/TalosBatteryControl-Releases/releases/tag/v6.0.0-beta.7",
     "notes": {
-      "pt-BR": "Busca integrada em telas amplas. Home adaptativa, melhorias de acessos e buffer curto dos watts.",
-      "en": "Integrated search on wide windows. Adaptive Home, access recovery and a short power-reading buffer."
+      "pt-BR": "Atualizações dentro do Talos: baixe o APK em Sobre e confirme a instalação no Android. Seletor compacto do indicador da barra, pausa térmica mais clara e reserva Samsung ociosa enquanto não há indício de carga continuada.",
+      "en": "Updates inside Talos: download the APK in About and confirm installation in Android. Compact status-bar selector, clearer thermal pause and idle Samsung reserve while there is no evidence of continued charging."
     }
   }
 }
