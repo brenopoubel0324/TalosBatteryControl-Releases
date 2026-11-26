@@ -3,7 +3,7 @@
 Battery monitoring and charging controls for supported Samsung Galaxy devices.
 Named after Talos, the bronze guardian of Crete.
 
-**[Download Debug39](https://github.com/brenopoubel0324/TalosBatteryControl-Releases/releases/tag/v6.0.0-beta.6)**
+**[Download Debug 46](https://github.com/brenopoubel0324/TalosBatteryControl-Releases/releases/tag/v6.0.0-beta.13)**
 
 This public repository contains official APK downloads, update metadata and
 product documentation. Application source and development history remain private.
@@ -29,7 +29,8 @@ Samsung capture.
 
 The debug catalogue is channels/debug.json. The stable catalogue is currently
 empty. VersionCode, variant, package, digest and certificate identify an offer.
-The app update feature is being prepared; Debug39 does not yet contain it.
+Debug 46 can check for, download and verify updates in Settings → About.
+Debug 39 users can update using the APK linked above.
 
 ## Support and notices
 
