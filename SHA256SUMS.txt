@@ -1,0 +1,1 @@
+f2e30ceb43ee1cd33b358849bd80793589fdfc460a78a7c9c7082b3678bb8cac  Talos-6.0.0-beta.13-debug.apk
